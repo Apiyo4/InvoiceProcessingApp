@@ -1,6 +1,6 @@
 # InvoiceProcessingApplication
 
-This is an application that when given an invoice in PDF or Image format, takes the invoice details and looks for various fields, (such as invoice number, supplier name, date, vat and total amount) and return these exacts field in JSON format. 
+This is an application that when given an invoice in PDF or Image format, takes the invoice details and looks for various fields (such as invoice number, supplier name, date, vat and total amount), and return these exacts field in JSON format. 
 
 ## Tech Used
 Python, ComputerVisionApi, Azure Functions
